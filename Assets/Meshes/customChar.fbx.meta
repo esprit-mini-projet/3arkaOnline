@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 4c8ea76ebde161d438f27b4050981193
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm.l
+    100002: arm.r
+    100004: arm_lower.l
+    100006: arm_lower.r
+    100008: chest
+    100010: //RootNode
+    100012: finger.l
+    100014: finger.r
+    100016: finger_lower.l
+    100018: finger_lower.l_end
+    100020: finger_lower.r
+    100022: finger_lower.r_end
+    100024: foot.l
+    100026: foot.r
+    100028: foot_lower.l
+    100030: foot_lower.l.001
+    100032: foot_lower.l.001_end
+    100034: foot_lower.r
+    100036: foot_lower.r.001
+    100038: foot_lower.r.001_end
+    100040: hand.l
+    100042: hand.r
+    100044: head
+    100046: head_end
+    100048: hips
+    100050: leg.l
+    100052: leg.r
+    100054: leg_lower.l
+    100056: leg_lower.r
+    100058: lp_guy
+    100060: lp_guy_mesh
+    100062: neck
+    100064: shoulder.l
+    100066: shoulder.r
+    100068: spine
+    100070: thumb.l
+    100072: thumb.r
+    100074: thumb_lower.l
+    100076: thumb_lower.l_end
+    100078: thumb_lower.r
+    100080: thumb_lower.r_end
+    400000: arm.l
+    400002: arm.r
+    400004: arm_lower.l
+    400006: arm_lower.r
+    400008: chest
+    400010: //RootNode
+    400012: finger.l
+    400014: finger.r
+    400016: finger_lower.l
+    400018: finger_lower.l_end
+    400020: finger_lower.r
+    400022: finger_lower.r_end
+    400024: foot.l
+    400026: foot.r
+    400028: foot_lower.l
+    400030: foot_lower.l.001
+    400032: foot_lower.l.001_end
+    400034: foot_lower.r
+    400036: foot_lower.r.001
+    400038: foot_lower.r.001_end
+    400040: hand.l
+    400042: hand.r
+    400044: head
+    400046: head_end
+    400048: hips
+    400050: leg.l
+    400052: leg.r
+    400054: leg_lower.l
+    400056: leg_lower.r
+    400058: lp_guy
+    400060: lp_guy_mesh
+    400062: neck
+    400064: shoulder.l
+    400066: shoulder.r
+    400068: spine
+    400070: thumb.l
+    400072: thumb.r
+    400074: thumb_lower.l
+    400076: thumb_lower.l_end
+    400078: thumb_lower.r
+    400080: thumb_lower.r_end
+    2100000: matLowPoly_armskin
+    4300000: lp_guy_mesh
+    7400000: lp_guy|lp_guy|lp_guy|Attack_1|lp_guy|Attack_1
+    7400002: lp_guy|lp_guy|lp_guy|Death|lp_guy|Death
+    7400004: lp_guy|lp_guy|lp_guy|Drop|lp_guy|Drop
+    7400006: lp_guy|lp_guy|lp_guy|Idle-loop|lp_guy|Idle-loop
+    7400008: lp_guy|lp_guy|lp_guy|Jump_End|lp_guy|Jump_End
+    7400010: lp_guy|lp_guy|lp_guy|Jump|lp_guy|Jump
+    7400012: lp_guy|lp_guy|lp_guy|OpenDoor|lp_guy|OpenDoor
+    7400014: lp_guy|lp_guy|lp_guy|Pickup|lp_guy|Pickup
+    7400016: lp_guy|lp_guy|lp_guy|Run-loop|lp_guy|Run-loop
+    7400018: lp_guy|lp_guy|lp_guy|Talk1|lp_guy|Talk1
+    9500000: //RootNode
+    13700000: lp_guy_mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
